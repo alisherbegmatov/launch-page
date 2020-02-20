@@ -1,0 +1,24 @@
+body {
+  color:white;
+}
+.navbar {
+  padding 1rem;
+}
+.navbar {
+  padding 1rem;
+  background-color: black;
+}
+.btn-primary:hover {
+  background-color: black;
+  color: white;
+}
+/* styles.css */
+
+.hero-background-img {
+  background-image: url("FerrariF8.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:350px;
+  padding-bottom:350px;
+}
